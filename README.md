@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Vinicius Holanda 👋
 
-### Estudando Kotlin, Java e Angular, cientista da computação em formação e desenvolverdor RPA UiPath, Automation Anywhere e IBM RPA.
+### Estudando Kotlin, Java e Android, cientista da computação em formação e desenvolverdor backend Java em procura de oportunidades de migração para o Android Nativo.
 
  <div>
   <a href="https://github.com/Holandavini">

@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Vinicius Holanda 👋
 
-### Estudando Kotlin, Java e Android, cientista da computação em formação e desenvolverdor backend Java em busca de oportunidades de migração para o Android Nativo.
+### Desenvolvedor Java, cientista da computação em formação.
 ###
  <div>
   <a href="https://github.com/Holandavini">
